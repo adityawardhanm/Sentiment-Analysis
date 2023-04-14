@@ -1,1 +1,1 @@
-# Supervised-Semantic-Analysis
+# Supervised Learning Sentiment Analysis
