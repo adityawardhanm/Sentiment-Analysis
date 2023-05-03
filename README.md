@@ -18,6 +18,7 @@ The First Iteration of this project was made using Pytorch and Transformers libr
 I am planning on developing this further in 
 
 • Second iteration by switching Pytorch with Tensorflow.
+
 • Third Iteration by trying to switch Transformers with KerasNLP's BERT (May take time).
 
 by [adityawardhanm](https://github.com/adityawardhanm)
