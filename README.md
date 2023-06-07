@@ -13,6 +13,10 @@ The First Iteration of this project was made using Pytorch and Transformers libr
 
 The original Dataset is available on Kaggle [here](https://www.kaggle.com/datasets/ashkhagan/smile-twitter-emotion-dataset). Still, I have uploaded the dataset in the repository.
 
+• v1.0 contains notebook results for GCP Training.
+
+• v1.1 contains notebook results for CPU Training(Intel i7 12700H|16GB Memory)
+
 ## Future Scope
 
 I am planning on developing this further in 
